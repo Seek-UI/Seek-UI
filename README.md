@@ -31,7 +31,7 @@
 - yarn
 
 ```bash
-yarn add seek_ui
+yarn add seek-ui
 ```
 
 - npm

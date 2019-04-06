@@ -47,7 +47,7 @@ Vue.use(SeekUI)
 可以局部注册所需的组件，适用于与其他框架组合使用的场景
 
 ```js
-import { WButton } from 'seek_ui'
+import { WButton } from 'seek-ui'
 
 export default {
   components: {
