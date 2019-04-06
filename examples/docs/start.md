@@ -31,8 +31,8 @@
 可以在项目的入口文件中引入所有组件或所需组件
 
 ```js
-import SeekUI from 'seek_ui' // 引入组件库
-import '../node_modules/SeekUI/packages/theme-default/lib/index.css' // 引入样式库
+import SeekUI from 'seek-ui' // 引入组件库
+import 'seek-ui/packages/theme-default/lib/index.css' // 引入样式库
 
 Vue.use(SeekUI)
 ```
@@ -63,4 +63,4 @@ export default {
 
 ## 自定义主题
 
-`Seek-UI` 各个组件的样式变量都存放在 `seek_ui/packages/theme-defualt/common/var.css` 文件中。用户可根据实际需要，自定义组件的样式
+`Seek-UI` 各个组件的样式变量都存放在 `seek-ui/packages/theme-defualt/common/var.css` 文件中。用户可根据实际需要，自定义组件的样式

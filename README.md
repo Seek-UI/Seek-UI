@@ -35,14 +35,14 @@ yarn add seek_ui
 - npm
 
 ```bash
-npm install seek_ui --save
+npm install seek-ui --save
 ```
 
 ## 使用
 
 ```js
-import SeekUI from 'seek_ui' // 引入组件库
-import 'seek_ui/packages/theme-default/lib/index.css' // 引入样式库
+import SeekUI from 'seek-ui' // 引入组件库
+import 'seek-ui/packages/theme-default/lib/index.css' // 引入样式库
 
 Vue.use(SeekUI)
 ```
