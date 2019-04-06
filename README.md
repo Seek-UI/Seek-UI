@@ -6,6 +6,8 @@
 
 # 公告
  `UI`库实际使用效果请自行体验，不做最终效果的保证
+ 引入可能有差异，`如有报错env不存在为配置的env需要babel-preset-env这个模块`
+ 请自行添加`npm i babel-preset-env --save-dev`
 
 # Seek UI
 

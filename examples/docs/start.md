@@ -37,6 +37,11 @@ import 'seek-ui/packages/theme-default/lib/index.css' // 引入样式库
 Vue.use(SeekUI)
 ```
 
+```
+引入可能有差异，`如有报错env不存在为配置的env需要babel-preset-env这个模块`
+ 请自行添加`npm i babel-preset-env --save-dev`
+```
+
 ### 单个组件按需使用
 
 可以局部注册所需的组件，适用于与其他框架组合使用的场景
