@@ -24,7 +24,7 @@ inquirer.prompt([{
   name: 'message',
   message: '版本发布说明',
   type: 'input',
-  default: ''
+  default: 'This is a Admin UI components for Vue 2.x'
 }]).then(function (answers) {
   let build = answers.conform ? 'npm run build &&' : '';
   var cmd = `${build} 

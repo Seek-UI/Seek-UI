@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://at.aotu.io/">
-    <img width="200" src="https://github.com/Seek-UI/Seek-UI/blob/master/examples/assets/img/avater.png">
+    <img width="200" src="http://real.palpitation.shop/avater.png">
   </a>
 </p>
 
@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://github.com/feross/standard">
-    <img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="Standard - JavaScript Style">
+    <img src="http://real.palpitation.shop/badge.svg" alt="Standard - JavaScript Style">
   </a>
 </p>
 <p align="center">
-<a href="https://www.npmjs.com/package/seek_ui"><img src="https://img.shields.io/badge/npm-1.0.4-brightgreen.svg" alt="npm version"></a>
-  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
-  <a href="https://www.npmjs.com/package/seek_ui"><img src="https://img.shields.io/badge/licence-MIT-blue.svg"></a>
+  <a href="https://www.npmjs.com/package/seek_ui"><img src="http://real.palpitation.shop/npm-1.0.4-brightgreen.svg" alt="npm version"></a>
+  <img src="http://real.palpitation.shop/build-passing-brightgreen.svg">
+  <a href="https://www.npmjs.com/package/seek_ui"><img src="http://real.palpitation.shop/licence-MIT-blue.svg"></a>
 </p>
 
 ## 特性
