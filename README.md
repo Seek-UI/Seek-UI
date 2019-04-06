@@ -1,14 +1,13 @@
 <p align="center">
   <a href="https://at.aotu.io/">
-    <img width="200" src="https://github.com/VV-UI/VV-UI/blob/master/examples/assets/img/logo.png">
+    <img width="200" src="https://github.com/Seek-UI/Seek-UI/blob/master/examples/assets/img/avater.png">
   </a>
 </p>
 
 # 公告
-这个 `UI`库的核心想法是想教大家如何搭建一个基于`Vue`的组件库。市面上已经有很多成熟的中后台组件库，比如`element-ui`和`iview`。
-这个组件库也是由我一个人维护开发，不建议使用到生产环境，如果有兴趣，可以`fork`下来作为自己技术探索的一个部分。感谢大家的支持，也欢迎大家加我QQ群：`263785852` 一起学习交流。
+ `UI`库实际使用效果请自行体验，不做最终效果的保证
 
-# VV UI
+# Seek UI
 
 `Seek-UI` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
 [演示地址](http://api.palpitation.shop)
