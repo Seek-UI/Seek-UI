@@ -1,6 +1,6 @@
 {
   "name": "Seek-UI",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "description": "This is a Admin UI components for Vue 2.x ",
   "author": "Seek_lin <18335198709@126.com>",
   "main": "packages/index.js",
