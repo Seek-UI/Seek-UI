@@ -12,17 +12,6 @@
 `Seek-UI` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
 [演示地址](http://api.palpitation.shop)
 
-<p align="center">
-  <a href="https://github.com/feross/standard">
-    <img src="http://real.palpitation.shop/badge.svg" alt="Standard - JavaScript Style">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/seek_ui"><img src="http://real.palpitation.shop/npm-1.0.4-brightgreen.svg" alt="npm version"></a>
-  <img src="http://real.palpitation.shop/build-passing-brightgreen.svg">
-  <a href="https://www.npmjs.com/package/seek_ui"><img src="http://real.palpitation.shop/licence-MIT-blue.svg"></a>
-</p>
-
 ## 特性
 
 - 基于 `Vue` 开发的 UI 组件
