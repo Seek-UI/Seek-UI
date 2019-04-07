@@ -6,6 +6,7 @@ import WButton from './button/index.js';
 import WRow from './row/index'
 import WCol from './col/index'
 import WTag from './tag/index'
+import WTable from './table/index'
 import WShowMore from './show-more/index'
 import WLimitTextArea from './limit-textarea/index'
 import MetaInfo from './meta-info/index'
@@ -18,13 +19,14 @@ const components = [
   WRow,
   WCol,
   WTag,
+  WTable,
   WShowMore,
   WLimitTextArea,
   WAlert,
   Skeleton
 ]
 
-const install = function(Vue) {
+const install = function (Vue) {
   if (install.installed) return
   components.map(component => Vue.component(component.name, component))
   MetaInfo.install(Vue)
@@ -41,6 +43,7 @@ export default {
   WRow,
   WCol,
   WTag,
+  WTable,
   WShowMore,
   WLimitTextArea,
   MetaInfo,

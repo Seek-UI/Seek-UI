@@ -88,6 +88,17 @@
           "path": "/skeleton"
         }
       ]
+    },
+    {
+      "desc": "定制组件",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "Table 组件",
+          "name": "table",
+          "path": "/table"
+        }
+      ]
     }
   ]
 }
